@@ -26,6 +26,15 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "covid-sh",
+      "name": "covid.sh",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/63833051?v=4",
+      "profile": "http://docs.covid.sh",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
