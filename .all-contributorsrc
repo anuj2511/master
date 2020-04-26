@@ -13,7 +13,8 @@
       "contributions": [
         "infra",
         "test",
-        "code"
+        "code",
+        "financial"
       ]
     },
     {
@@ -44,6 +45,16 @@
       "contributions": [
         "code",
         "bug"
+      ]
+    },
+    {
+      "login": "Shreenabh664",
+      "name": "Shreenabh664",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/62369422?v=4",
+      "profile": "https://github.com/Shreenabh664",
+      "contributions": [
+        "code",
+        "test"
       ]
     }
   ],
