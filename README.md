@@ -1,6 +1,6 @@
 # master
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 api.covid.sh 
 
@@ -13,7 +13,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+
     <td align="center"><a href="https://en.wikipedia.org/wiki/Mohammed_Suhail_Chinya_Salimpasha"><img src="https://avatars2.githubusercontent.com/u/42859854?v=4" width="100px;" alt=""/><br /><sub><b>Suhail</b></sub></a><br /><a href="#infra-chinyasuhail" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/covid-sh/master/commits?author=chinyasuhail" title="Tests">⚠️</a> <a href="https://github.com/covid-sh/master/commits?author=chinyasuhail" title="Code">💻</a> <a href="#financial-chinyasuhail" title="Financial">💵</a></td>
+
   </tr>
 </table>
 

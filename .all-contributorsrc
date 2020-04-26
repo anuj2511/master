@@ -16,6 +16,44 @@
         "code",
         "financial"
       ]
+    },
+    {
+      "login": "snpranav",
+      "name": "Pranav Shikarpur",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/35801625?v=4",
+      "profile": "https://snpranav.com/",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    },
+    {
+      "login": "covid-sh",
+      "name": "covid.sh",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/63833051?v=4",
+      "profile": "http://docs.covid.sh",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "anuj2511",
+      "name": "Anuj Mokashi",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/44696853?v=4",
+      "profile": "https://github.com/anuj2511",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Shreenabh664",
+      "name": "Shreenabh664",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/62369422?v=4",
+      "profile": "https://github.com/Shreenabh664",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
