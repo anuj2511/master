@@ -14,7 +14,9 @@
         "infra",
         "test",
         "code",
-        "financial"
+        "financial",
+        "doc",
+        "review"
       ]
     },
     {
